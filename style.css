@@ -99,8 +99,9 @@ a.card-white:hover {
 	margin: 5px auto;
 }
 
+/* Cards media queries */
 
-@media (min-width: 300px) {
+@media (min-width: 500px) {
 	.container {
 		width: 400px;
 	}
